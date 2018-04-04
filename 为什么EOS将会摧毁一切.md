@@ -1,30 +1,30 @@
 Why EOS will destroy everything else
 Simply by seeing 2018 is not 2009.
 
-为什么 EOS 将会摧毁一切（改变历史）
-现在已经是 2018 年，而不是 2009 年了
+## 为什么 EOS 将会摧毁一切（改变历史）
+*现在已经是 2018 年，而不是 2009 年了*
 
 
 
 What’s happening with “blockchain” right now has already happened in computing. Is similar to what happened with A.I. R&D in the 1980’s. Namely, the widespread development of tech whose massive level of sophistication (which implies higher costs) is irrelevant for the market. That cheapening is a thing that happens to all commercial industries as they mature across decades of competition. But, in “blockchain,” a decade fits in a year or two.
 
-“区块链”行业现在正在发生的事情已经是预料之中的事。这类似于A.I.R&D在20世纪80年代的情况。换句话说就是，这类高度复杂技术的广泛发展（这意味着更高的成本）是与市场无关的。它们在数十年的竞争市场中逐渐成熟，表现在所有商业行业其价格趋于下跌。但是，在“区块链”行业中，一年或两年就可以抵得上其它行业十年的路。
+“区块链”行业现在正在发生的事情已经是预料之中的事。这类似于 A.I.R&D 在 20 世纪 80 年代的情况。换句话说就是，这类高度复杂技术的广泛发展（这意味着更高的成本）是与市场无关的。它们在数十年的竞争市场中逐渐成熟，表现在所有商业行业其价格趋于下降。但是，在“区块链”行业中，一年或两年就可以抵得上其它行业十年的路。
 
 Bitcoin was the product of the cypherpunks. These are, essentially, the “only the paranoid survive” crowd, the “the government is watching” crowd. It would be only natural they would come up with a solution to the double-spending problem that involves an open peer-to-peer network of anonymous nodes. They tuned it for maximum resilience against a concerted attack from the global money cartel and the governments they exert massive control over.
 
-比特币是数字朋克们（cypherpunks）的产物，而数字朋克们基本上是“只有偏执狂才能生存”以及“政府正在关注”一个群体。他们找到解决双重支付问题的方案是很自然的，这个问题涉及到一个开放的匿名的点对点网络。但他们不得不做好准备，以应对来自全球货币联盟和各国政府强大控制的共同攻击。
+比特币是数字朋克们（ cypherpunks ）的产物，而数字朋克们基本上是“只有偏执狂才能生存”以及“政府正在关注”一个群体。他们找到解决双重支付问题的方案是很自然的，这个问题涉及到一个开放的匿名的点对点网络。但他们不得不做好准备，以应对来自全球货币联盟和各国政府强大控制中的共同攻击。
 
 
 ( Remember when the creator(s) of Bitcoin hid under the Satoshi Nakamoto pseudonym, and when Wikileaks wanted to use Bitcoin for donations, Nakamoto freaked out, stating that it was “too early” and that the network could have been killed by a massive surge in usage (and also in attention from the powers-that-be) so early in its development? That mentality would have never though something like EOS would be sufficient to run an anarchic money system?—?not even after the success of Bitcoin. )
 
 
-（众所周知比特币的创造者是中本聪，而当维基解密（Wikileaks）想要使用比特币进行捐赠时，中本聪吓坏了，发表声明说现在“太早”了，发展早期的比特币网络可能会被大幅增加的使用量所压垮（同时也受到上文说到那些反对势力的关注），那么这种心态永远不会像EOS那样，足以运行一个无政府状态的货币体系，即使在比特币成功之后也是如此）
+（众所周知比特币的创造者是中本聪，而当维基解密（ Wikileaks ）想要使用比特币进行捐赠时，中本聪吓坏了，发表声明说现在“太早”了，发展早期的比特币网络可能会被大幅增加的使用量所压垮（同时也受到上文说到那些反对势力的关注），那么这种心态永远不会像 EOS 那样，足以运行一个无政府状态的货币体系，即使在比特币成功之后也是如此）
 
 
 Besides its prohibitive costs of operation, borne out of the need to spread a global ledger across ten thousand consumer-grade anonymous nodes, the Bitcoin protocol worked. With its global bandwidth of 3 transactions per second, not only it worked as a demo, as a proof that anarchic money exists and is possible to build, but it gathered a global cult following that, at its peak, valued the Bitcoin network at about $340,000,000,000.
 
 
-除了其令人望而却步的运营成本之外，在Bitcoin工作协议下，其需要通过在全球一万个消费级匿名节点上传播账本。而它在全球范围内每秒处理3笔交易，这不仅仅是作为一个演示，也作为无政府货币*存在*和可能达成的证据，因此在这之后，它在全球范围内掀起了一股热潮，在其顶峰时，它的网络价值达到了3400亿美元（译者注：比特币目前市值7400亿美元，占市场总市值的45%）。
+除了其令人望而却步的运营成本之外，在 Bitcoin 工作协议下，其需要通过在全球一万个消费级匿名节点上传播账本。而它在全球范围内每秒处理3笔交易，这不仅仅是作为一个演示（ demo ），也作为无政府货币*存在*和可能创立的证据，因此在这之后，全球范围内掀起了一股热潮，在其顶峰时，它的网络价值达到了3400亿美元（译者注：比特币目前市值7400亿美元，占市场总市值的45%）。
 
 
 People have then slowly walked back from the paranoia of the cypherpunk mentality. Bitcoin’s security requirements are maximal, e.g. requiring every transaction to be broadcast to and processed by every single node, so several projects have started by questioning that excessive level of security, hoping to find attack vectors they can afford to discard in order to reap some performance gains.
