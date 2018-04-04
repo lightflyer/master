@@ -24,31 +24,28 @@ Bitcoin was the product of the cypherpunks. These are, essentially, the “only 
 Besides its prohibitive costs of operation, borne out of the need to spread a global ledger across ten thousand consumer-grade anonymous nodes, the Bitcoin protocol worked. With its global bandwidth of 3 transactions per second, not only it worked as a demo, as a proof that anarchic money exists and is possible to build, but it gathered a global cult following that, at its peak, valued the Bitcoin network at about $340,000,000,000.
 
 
-除了其令人望而却步的运营成本之外，在 Bitcoin 工作协议下，其需要通过在全球一万个消费级匿名节点上传播账本。而它在全球范围内每秒处理3笔交易，这不仅仅是作为一个演示（ demo ），也作为无政府货币*存在*和可能创立的证据，因此在这之后，全球范围内掀起了一股热潮，在其顶峰时，它的网络价值达到了3400亿美元（译者注：比特币目前市值7400亿美元，占市场总市值的45%）。
+除了其令人望而却步的运营成本之外，在 Bitcoin 工作协议下，其需要通过在全球一万个消费级匿名节点上传播账本。而它在全球范围内每秒处理3笔交易，这不仅仅是作为一个演示（ demo ），也作为无政府货币*存在*和可能创立的证据，因此在这之后，全球范围内掀起了一股热潮，在其顶峰时，它的网络价值达到了 3400 亿美元（译者注：比特币目前市值 7400 亿美元，占市场总市值的 45% ）。
 
 
 
 People have then slowly walked back from the paranoia of the cypherpunk mentality. Bitcoin’s security requirements are maximal, e.g. requiring every transaction to be broadcast to and processed by every single node, so several projects have started by questioning that excessive level of security, hoping to find attack vectors they can afford to discard in order to reap some performance gains.
 
-后来，人们慢慢地从赛博朋克（cypherpunk）那种偏执的情绪中走了出来。比特币的安全需求成为了头等大事，例如，要求每笔交易都要广播到每个节点，且每个节点都要进行处理，因此有不少项目开始质疑这种过度的安全性，希望找到他们可以承受的一些边界（attack vectors）以获得某些性能提升。
+后来，人们慢慢地从数字朋克（cypherpunk）那种盲目崇拜的情绪中走了出来。比特币的安全需求成为了头等大事，例如，要求每笔交易都要广播到每个节点，且每个节点都要进行处理，因此有不少项目开始质疑这种过度的安全性，希望找到他们可以承受的一些边界（ attack vectors ）以获得某些性能提升。
 
 
 In early 2018, the main word is now “scale.” The vast majority of blockchain projects are competing for the transactions-per-second crown, while offering other perks like e.g. secure user identification (NEO). And several of the scaling proposals are, in my opinion, needlessly complex, because they cargo-cult insist on the cypherpunk requirement of a sprawling peer-to-peer network of nodes?—?in many cases, still regular home broadband nodes.
 
-2018年初，市场的关键词是“规模”。绝大多数区块链项目都在追求谁的交易处理速度更快。同时还提供其它的辅助功能，例如，安全的用户身份识别（NEO）。但在我看来，这是不必要的复杂的，因为他们固执的坚持认为一个庞大的点对点网络节点是赛博朋克的要求—在许多情况下，一般的家庭宽带就够了。
+ 2018 年初，市场的关键词是“规模”。绝大多数区块链项目都在追求谁的交易处理速度更快，同时还提供其它的辅助功能，例如，安全的用户身份识别（ NEO ）。但在我看来，这是不必要且复杂的，因为他们固执的坚持认为一个庞大的点对点网络节点是数字朋克的要求——在许多情况下，一般的家庭宽带就够了。
 
 Projects like EOS and Lisk come from a different angle: they assume there will be very few full nodes in a blockchain network, and these will be “super-peers.” EOS, in particular, realizes that there is no need to hold back at all, and states: we will have 20 highly-stable, highly-public (known), highly-funded companies worldwide, organized as a token ring overlay network, and they will take quick three-second turns each being the leader and having its massive clusters issuing blocks to the other super-peers. It will have a bandwidth that’s only limited to what computers and networks can do.
-像EOS 和Lisk这样的项目其考录的角度是不同的：它们假设区块链网络中将会有非常少的完整节点，并且这些节点将是“超级节点”。尤其是，EOS意识到根部没必要阻止超级节点，同时声明：我们将在全球范围内拥有20家高度稳定、知名，且资金雄厚的公司，形成一个令牌（token）环形覆盖网络，
-他们将以三秒确认一次的方式轮流成为领导者，并通过大规模集群协作向其它超级节点发放数据块。它将有一个仅限于计算机和网络可以执行操作的带宽。
+
+像 EOS 和 Lisk 这样的项目其考虑的角度是不同的：它们假设区块链网络中将会有非常少的完整节点，并且这些节点将是“超级节点”。尤其是， EOS 意识到根本没必要阻止超级节点，同时声明：我们将在全球范围内拥有20家高度稳定和知名，且资金雄厚的公司，形成一个令牌（ token ）环形覆盖网络，他们将以三秒确认一次的方式轮流成为领导者，并通过大规模集群协作向其它超级节点发放数据块。它将有一个仅限于计算机和网络可以执行操作的带宽。
 
 
 EOS, like Bitcoin, works. But EOS is massively cheaper. However, EOS would probably not have “worked,” as a social phenomenon, if it was Satoshi Nakamoto’s project. The cypherpunk paranoia story was effective in uprooting the psychological domination of the current State-based, cartel money system, because first it validated its massive power (which is reified?—?considered real, concrete, unassailable?—?in most people’s minds all around the globe), and then it offered a bunch of technically unnecessary but psychologically compelling reasons for why it was going to defeat that powerful global monopoly on money creation and operation.
 
 EOS像比特币一样有效。但是EOS更便宜。然而，如果它是中本聪的项目，EOS作为一种社会现象可能不会“有效”。赛博朋克盲目崇拜的故事有效地推翻了目前基于国家的卡特尔货币体系（cartel money sy力量（这被认为是真实的，具体的，无懈可击的—在全球大多数人的脑海中），然后它提供了一堆*技术上不必要的东西*，但心理上令人信服的理由，为什么它要打败这个在货币创造和运营方面的强大全球垄断。
 
-
-
-----2018年3月31日翻译
 
 If EOS came first, maybe the EOS site operators?—?the block producers?—?could have been legally persecuted. No one would have really known who they were or what they were trying to achieve. But now? Now “crypto”?—?Internet-based, computer-based anarchic money creation and operation?—?is a thing, and the persecution and destruction of any such network is now impractical, in case it was not always impractical, which is also a possibility.
 
