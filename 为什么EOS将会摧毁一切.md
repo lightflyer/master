@@ -82,7 +82,7 @@ In short, we have three types of blockchain networks in operation or in developm
 
 -  类似 EOS 系统：最大的性能，最低的成本；
 
-Ethereum-like systems: work as social insurance for the EOS-like systems, supplies extra security for those niche applications that need it more than low latency and high bandwidth;
+-  Ethereum-like systems: work as social insurance for the EOS-like systems, supplies extra security for those niche applications that need it more than low latency and high bandwidth;
 
 -  类似以太坊系统：作为类似 EOS 系统的社会保险，为那些需要更多低延时和高带宽的小众应用提供额外的安全性;
 
