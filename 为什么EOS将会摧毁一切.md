@@ -57,22 +57,21 @@ The power of the global money cartel system?—?the Euro, the Dollar, etc. all t
 
 The One True Money story no longer works. Attempting to persecute operators of money networks will not stick?—?not all around the globe, across States, all at once, which is what is required to destroy something like EOS. We can, should and must create different moneys. In 2018, we have sufficiently advanced a worldview of monetary diversity. That is what has changed between 2009 and 2018. That is what Bitcoin has accomplished.
 
-一个真正的货币故事将不再有效。试图捣乱货币网络的经营者将难以生存下去——将不会遍布全球各地，而是一次性完成，这是破坏 EOS 所需的东西。我们可以，应该且必须创造不同的货币。在 2018 年，我们已经充分推进了货币多元化的世界观。这就是 2009 年到 2018 年之间发生的变化，这也正是比特币所取得的成就。
+一个真正的货币故事将不再有效。试图破坏货币网络的经营者将难以生存下去——不是在全球范围内，而是在各个州，这是摧毁像EOS这样的东西所需要的东西。我们可以，应该且必须创造不同的货币。在 2018 年，我们已经充分推进了货币多元化的世界观。这就是 2009 年到 2018 年之间发生的变化，这也正是比特币所取得的成就。
 
 The overzealous and tilted craft, and thus the ballooning costs of the “golden age” phase of an industry all arise from that process of social story development that is inherent in any kind of industry. Early social preoccupations are fulfilled, then dropped for later, more optimized preoccupations. Some american cars from the 1950’s were gorgeous and sturdy, but had no seat belts. The kind of craft seen in the golden age of movies and video-games (depth) has given way to other kinds of craft (instant gratification), etc.
 
-过度热忱和豪华工艺，以及行业“黄金时代”阶段的泡沫成本都来自其发展进程中，这是任何一种行业都会有现象。实现早期的社会关注后被放弃，直至优化迭代浴火重生。一些1950年代美国的汽车豪华且坚固，但没有安全带。在电影和电子游戏的黄金时代（深度）看到的那种工艺已经让位于其他类型的工艺（即时满足）等等。
+过度热忱和豪华工艺，以及行业“黄金时代”阶段的泡沫成本都来自其发展进程中，这是任何一种行业都会有现象。在实现早期的社会关注后被放弃，直至优化迭代浴火重生。一些 1950 年代美国的汽车豪华且坚固，但没有安全带。在电影和电子游戏的黄金时代（深度）看到的那种工艺已经让位于其它类型的工艺（即时满足）等等。
 
 And thus, as we see that the religion of Debt Money and its devil are all invented, we realize it has no power over us. The power that myths have over a society depend on accepting that myth as at least partially real. We have all seen way too many spy movies. Thus, if we want a new digital money, we can merely set up a decent amount of social replication world-wide, across a significant number of State jurisdictions (and let’s not forget to add back-up replicas, just in case!), and let each replica be a business, thus optimizing to the actual architecture of the computer network known as “Internet,” which is optimized for the client-server, producer-consumer distinction, and also to the actual architecture of human society, where businesses concentrate a few specialists that maintain services for users who don’t really have to know much about how it works.
 
-因此，正如我们所看到的，货币债务及其魔鬼般的宗教都被创造了出来，我们意识到它对我们毫无？？动力。神话故事对社会的影响取决于这种神话故事有多少部分是真实的。我们看过很多谍战影片（脑补一下）。因此，如果我们想要一个新的数字货币，我们可以在全球范围内建立一个相当数量的协作关系，可跨越多个州的司法管辖区（我们不要忘记保存副本，以防万一！），并让每个replicas成为一项业务，从而优化被称为“互联网”的计算机网络的实际架构，该架构针对客户端服务器，生产者与消费者的差异以及人类社会的实际架构进行优化，那里的企业集中了一些专家，为那些真正不需要知道如何工作的用户提供服务。
+因此，正如我们所看到的，货币债务及其魔鬼般的宗教都被创造了出来，我们意识到它对我们毫无？？动力。神话故事对社会的影响取决于这种神话故事有多少部分是真实的。我们看过很多谍战影片。因此，如果我们想要一个新的数字货币，我们可以在全球范围内建立一个相当数量的协作关系，可跨越多个州的司法管辖区（我们不要忘记保存副本，以防万一！），并让每个 replicas 成为一项业务，从而优化被称为“互联网”的计算机网络的实际架构，该架构针对客户端服务器，生产者与消费者的差异以及人类社会的实际架构进行优化，那里的企业集中了一些专家，为那些真正不需要知道如何工作的用户提供服务。
 
 
 
 There’s more to the design of EOS that I like, such as the governance features, the social safety net (recover the funds you misplaced by calling a friend), and the transparent inflation mechanism used to replace the unusable ritual of calculating transaction fees (though tiny, invisible fees will still be needed as a spam-prevention measure, I believe). But the main thing about EOS is the realization that you can’t really do much better in terms of cost reduction and increased bandwidth and latency than using specialized hardware and Grid Computing (the cousin of “clould” that isn’t foggy). I’m not sure what Lisk and other similar projects with 20 to 100 block producers are planning to do, but EOS has, to me, the largest, most public commitment to performance and the strongest display of dropping the cargo-cult of Bitcoin design paranoia?—?which had its usefulness in 2009, but no longer in 2018.
 
-我更喜欢的EOS设计，比如治理功能，社交安全网络（通过邀请朋友来找回你遗失的资金），透明的通胀机制用来取代计算交易费用（尽管很少，但预防垃圾邮件的潜在的费用还是需要的，我相信），但是关于EOS最主要事情是认识到，
-与使用专用硬件和网格运算（Grid Computing ）相比，在降低成本以及增加带宽和延迟方面，你无法做得更好。我不确定的是，Lisk和其它类似的项目通过20到100个区块生产者打算做什么。但是对我来说，EOS对其性能有最大的、最公开的承若，同时这也是放弃对比特币设计盲目崇拜的最强烈的表现。这种盲目崇拜在2009年有用，但现在是2018年。
+我更喜欢的 EOS 设计，比如治理功能，社交安全网络（通过邀请朋友来找回你遗失的资金），透明的通胀机制用来取代计算交易费用（尽管很少，但预防垃圾邮件的潜在的费用还是需要的，我相信），但是关于 EOS 最主要事情是认识到，与使用专用硬件和网格运算（ Grid Computing ）相比，在降低成本以及增加带宽和延迟方面，你无法做得更好。我不确定的是， Lisk 和其它类似的项目通过 20 到 100 个区块生产者打算做什么。但是对我来说， EOS 对其性能有最大的、最公开的承若，同时这也是放弃对比特币设计盲目崇拜的最强烈的表现。这种盲目崇拜在 2009 年有用，但现在是2018年。
 
 
 In short, we have three types of blockchain networks in operation or in development:
@@ -81,10 +80,11 @@ In short, we have three types of blockchain networks in operation or in developm
 
 -  EOS-like systems: maximum performance, minimum cost;
 
-类似EOS系统：最大的性能，最低的成本；
+类似 EOS 系统：最大的性能，最低的成本；
 
 Ethereum-like systems: work as social insurance for the EOS-like systems, supplies extra security for those niche applications that need it more than low latency and high bandwidth;
-类似以太坊系统：作为类似EOS系统的社会保险，为那些需要更多低延时和高带宽的小众应用提供额外的安全性;
+
+类似以太坊系统：作为类似 EOS 系统的社会保险，为那些需要更多低延时和高带宽的小众应用提供额外的安全性;
 
 
 
@@ -94,14 +94,14 @@ Ethereum-like systems: work as social insurance for the EOS-like systems, suppli
 类似比特币系统：去历史博物馆吧。
 
 
-The Ethereum-like and EOS-like systems are not really in competition, in the sense that we don’t want one to destroy the other. We need both systems. However, “EOS” (really, EOS-like systems) will “destroy” everything else because they will capture most of the market, the same way all the smaller e-mail services vanished, and everyone uses either Gmail now or some e-mail dinosaur product that their employers have pushed on them. Why use something slow, expensive and complicated to operate, when the user can have something fast, cheap and simple?—?something that’s actually more secure, because the actual weak link in security is not “the evil government and the hackers” but the user or, to be precise, the user not having a clue about what they are doing?
-类似以太坊和EOS的系统并不是所谓的竞争关系，也就是说，我们并不希望其中一个打败（消灭）另外一个。二者我们都需要。然而，“EOS”（事实是，类似EOS系统）将会“消灭”其它所有东西。因为它们将会占领大部分市场，就像所有小型电子邮件服务消失了一样，现在每个人要么使用Gmail要么使用其雇主推送给他们的一些巨无霸的电子邮件。为什么要使用不仅很慢很昂贵且复杂的操作，当用户能够使用快速便捷且简单的东西时—这实际上更安全。因为在安全方面真正的薄弱环节不是“政府和黑客作恶”，而是用户，或准确的说是用户不知道他们自己在做什么？，
+The Ethereum-like and EOS-like systems are not really in competition, in the sense that we don’t want one to destroy the other. We need both systems. However, “EOS” (really, EOS-like systems) will “destroy” everything else because they will capture most of the market, the same way all the smaller e-mail services vanished, and everyone uses either Gmail now or some e-mail dinosaur product that their employers have pushed on them. Why use something slow, expensive and complicated to operate, when the user can have something fast, cheap and simple?—?something that’s actually more secure, because the actual weak link in security is not “the evil government and the hackers” but the user or, to be precise, the user not having a clue about what they are doing? 
+
+类似以太坊和 EOS 的系统并不是所谓的竞争关系，也就是说，我们并不希望其中一个打败（消灭）另外一个。二者我们都需要。然而， “EOS” （事实是，类似 EOS 系统）将会“消灭”其它所有东西。因为它们将会占领大部分市场，就像所有小型电子邮件服务消失了一样，现在每个人要么使用 Gmail 要么使用其雇主推送给他们的一些落伍的电子邮件。为什么要使用不仅很慢很昂贵且复杂的操作，当用户能够使用快速便捷且简单的东西时——这实际上更安全。因为在安全方面真正的薄弱环节不是“政府和黑客作恶”，而是用户，或准确的说是用户不知道他们自己在做什么？，
 
 Finally, I’m not sure the EOS project specifically will be able to deliver. EOS is run by humans, and humans are fallible. But I do believe that a consortium blockchain works incomparably better than a “pure peer-to-peer” blockchain when we have a directly democratic (or the anarcho-capitalist approximation of that, by way of money-based voting) control of who exactly belongs in that consortium.
 
-最后，我不确定EOS项目能否真正落地实现。EOS是由人设计的，而人类很容易犯错误。但是我确实认为，当我们拥有直接民主（或者近似于无政府资本主义，通过基于money的投票方式）来管理谁应该属于哪个联盟时，联盟区块链的作用比“纯粹的点对点”区块链要好得多。
+最后，我不确定 EOS 项目能否真正落地实现。 EOS 是由人设计的，而人类很容易犯错误。但是我确实认为，当我们拥有直接民主（或者近似于无政府资本主义，通过基于 money 的投票方式）来管理谁应该属于哪个联盟时，联盟区块链的作用比“纯粹的点对点”区块链要好得多。
 
 EOS is also the best-funded software project in history. They literally have billions to develop their product.
 
-EOS是迄今为止开发资金最为充分的软件项目。根据其众筹来看，他们有数十亿美元开发他们的产品。
-
+EOS 是迄今为止开发资金最为充分的软件项目。根据其众筹来看，他们有数十亿美元用于开发他们的产品。
