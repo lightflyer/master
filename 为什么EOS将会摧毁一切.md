@@ -44,22 +44,20 @@ Projects like EOS and Lisk come from a different angle: they assume there will b
 
 EOS, like Bitcoin, works. But EOS is massively cheaper. However, EOS would probably not have “worked,” as a social phenomenon, if it was Satoshi Nakamoto’s project. The cypherpunk paranoia story was effective in uprooting the psychological domination of the current State-based, cartel money system, because first it validated its massive power (which is reified?—?considered real, concrete, unassailable?—?in most people’s minds all around the globe), and then it offered a bunch of technically unnecessary but psychologically compelling reasons for why it was going to defeat that powerful global monopoly on money creation and operation.
 
-EOS像比特币一样有效。但是EOS更便宜。然而，如果它是中本聪的项目，EOS作为一种社会现象可能不会“有效”。赛博朋克盲目崇拜的故事有效地推翻了目前基于国家的卡特尔货币体系（cartel money sy力量（这被认为是真实的，具体的，无懈可击的—在全球大多数人的脑海中），然后它提供了一堆*技术上不必要的东西*，但心理上令人信服的理由，为什么它要打败这个在货币创造和运营方面的强大全球垄断。
+EOS 像比特币一样有效。但是 EOS 更便宜。然而，如果它是中本聪的项目，EOS 作为一种社会现象可能不会“有效”。赛博朋克盲目崇拜的故事有效地推翻了目前基于国家的卡特尔货币体系（ cartel money sytem ）（这被认为是真实的，具体的，无懈可击的——在全球大多数人的脑海中），然后它提供了一堆*技术上不必要的东西*，但理论上令人信服的理由，即为什么它要颠覆这种现行的全球货币发行方式的原因。
 
 
 If EOS came first, maybe the EOS site operators?—?the block producers?—?could have been legally persecuted. No one would have really known who they were or what they were trying to achieve. But now? Now “crypto”?—?Internet-based, computer-based anarchic money creation and operation?—?is a thing, and the persecution and destruction of any such network is now impractical, in case it was not always impractical, which is also a possibility.
 
-如果EOS先于比特币出现，也许EOS节点-区块生产商 - 可能会受到法律上的困扰。因为没有人真正知道他们是谁或他们想要达到的目标。但现在呢？现在的“加密”，基于互联网，基于计算机的一种无政府状态的货币创造和运行是一件即成的事情，同时现在对任何此类网络形式的迫害和破坏都是不切实际的，但也要防止黑天鹅情况的发生，这种可能性一直都存在。
+如果 EOS 先于比特币出现，也许 EOS 节点——区块生产商——可能会受到法律上的困扰。因为没有人真正知道他们是谁或他们想要达到什么目标。但现在呢？现在的“加密”——基于互联网，基于计算机的一种无政府状态的货币创造和运行是一件即成的事情，同时现在对任何此类网络形式的迫害和破坏都是不切实际的，但也要防止黑天鹅情况的发生，这种可能性一直都存在。
 
 The power of the global money cartel system?—?the Euro, the Dollar, etc. all these “different” currencies which are not different at all but local branches of the same debt-based global currency, controlled by a handful of “banking” corporations?—?is purely psychological. Like any religion, it is powerful only to the extent people think its dominance is unassailable. Before Bitcoin, it was unthinkable that someone could “create money”?—?that sounds criminal… like… smoking a plant! After Bitcoin, that power is significantly crippled. Now people all around the globe know that the idea that there can only be “one money” is a complete farce. The Religion is shown to be non-total, because now people know that there are many Religions to choose from and that, in fact, people are free to worship the token of their choosing and the State should not at all interfere, nor be able to violently impose their own token and persecute and torture those who don’t agree with it.
 
-全球货币卡特尔体系的构成—欧元，美元等所有这些意识形态上的“不同的”货币，除了基于同一全球货币债务的本国货币外，这些货币完全没有区别，由少数“银行”机构控制 。
-
-像任何宗教一样，只有当人们承认它的支配地位是无懈可击时，它才是强大（powerful）的。比特币出现之前，如果你听说有人可以“创造金钱”，你觉得这是不可思议的，这听起来像犯罪......就像......吸食毒品！比特币出现之后，这种力量明显减弱了。现在全世界的人都知道，只能有“一种货币（one money）”的想法是一场彻头彻尾的闹剧。宗教被证明也不是唯一的，因为现在人们知道有许多宗教可供选择，事实上，人们可以自由地崇拜他们选择的token，国家根本不应该干涉，也不能暴力的强加他们自己的token，并迫害和折磨那些不同意的人。
+全球货币卡特尔体系的构成——欧元，美元等所有这些意识形态上的“不同的”货币，除了基于同一全球货币债务的本国货币外，这些货币完全没有区别，都是由少数“银行”机构控制 。就像任何宗教一样，只有当人们承认它的支配地位是无懈可击时，它才是强大的。比特币出现之前，如果你听说有人可以“创造金钱”，你觉得这是不可思议的，这听起来像犯罪......就像......吸食毒品！比特币出现之后，这种力量明显减弱了。现在全世界的人都知道，只能有“一种货币（ one money ）”的想法是一场彻头彻尾的闹剧。宗教被证明也不是唯一的，因为现在人们知道有许多宗教可供选择，事实上，人们可以自由地崇拜他们选择的 token ，国家根本不应该干涉，也不能暴力的强加他们自己的 token ，并打击报复那些不同意的人。
 
 The One True Money story no longer works. Attempting to persecute operators of money networks will not stick?—?not all around the globe, across States, all at once, which is what is required to destroy something like EOS. We can, should and must create different moneys. In 2018, we have sufficiently advanced a worldview of monetary diversity. That is what has changed between 2009 and 2018. That is what Bitcoin has accomplished.
 
-一个真正的金钱故事将不再有效。试图迫害货币网络的那些操作者将不会stick—将不会遍布全球各地，而是一次性完成，这是破坏EOS所需的东西。我们可以，应该且必须创造不同的money。在2018年，我们已经充分推进了货币多元化的世界观。这就是2009年到2018年之间发生的变化，也正是比特币所取得的成就。
+一个真正的货币故事将不再有效。试图捣乱货币网络的经营者将难以生存下去——将不会遍布全球各地，而是一次性完成，这是破坏 EOS 所需的东西。我们可以，应该且必须创造不同的货币。在 2018 年，我们已经充分推进了货币多元化的世界观。这就是 2009 年到 2018 年之间发生的变化，这也正是比特币所取得的成就。
 
 The overzealous and tilted craft, and thus the ballooning costs of the “golden age” phase of an industry all arise from that process of social story development that is inherent in any kind of industry. Early social preoccupations are fulfilled, then dropped for later, more optimized preoccupations. Some american cars from the 1950’s were gorgeous and sturdy, but had no seat belts. The kind of craft seen in the golden age of movies and video-games (depth) has given way to other kinds of craft (instant gratification), etc.
 
