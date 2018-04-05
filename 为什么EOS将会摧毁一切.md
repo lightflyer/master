@@ -80,18 +80,18 @@ In short, we have three types of blockchain networks in operation or in developm
 
 -  EOS-like systems: maximum performance, minimum cost;
 
-类似 EOS 系统：最大的性能，最低的成本；
+-  类似 EOS 系统：最大的性能，最低的成本；
 
 Ethereum-like systems: work as social insurance for the EOS-like systems, supplies extra security for those niche applications that need it more than low latency and high bandwidth;
 
-类似以太坊系统：作为类似 EOS 系统的社会保险，为那些需要更多低延时和高带宽的小众应用提供额外的安全性;
+-  类似以太坊系统：作为类似 EOS 系统的社会保险，为那些需要更多低延时和高带宽的小众应用提供额外的安全性;
 
 
 
 
 - Bitcoin-like systems: museum artifacts.
 
-类似比特币系统：去历史博物馆吧。
+-   类似比特币系统：去历史博物馆吧。
 
 
 The Ethereum-like and EOS-like systems are not really in competition, in the sense that we don’t want one to destroy the other. We need both systems. However, “EOS” (really, EOS-like systems) will “destroy” everything else because they will capture most of the market, the same way all the smaller e-mail services vanished, and everyone uses either Gmail now or some e-mail dinosaur product that their employers have pushed on them. Why use something slow, expensive and complicated to operate, when the user can have something fast, cheap and simple?—?something that’s actually more secure, because the actual weak link in security is not “the evil government and the hackers” but the user or, to be precise, the user not having a clue about what they are doing? 
