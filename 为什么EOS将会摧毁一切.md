@@ -44,7 +44,7 @@ Projects like EOS and Lisk come from a different angle: they assume there will b
 
 EOS, like Bitcoin, works. But EOS is massively cheaper. However, EOS would probably not have “worked,” as a social phenomenon, if it was Satoshi Nakamoto’s project. The cypherpunk paranoia story was effective in uprooting the psychological domination of the current State-based, cartel money system, because first it validated its massive power (which is reified?—?considered real, concrete, unassailable?—?in most people’s minds all around the globe), and then it offered a bunch of technically unnecessary but psychologically compelling reasons for why it was going to defeat that powerful global monopoly on money creation and operation.
 
-EOS 像比特币一样有效。但是 EOS 更便宜。然而，如果它是中本聪的项目，EOS 作为一种社会现象可能不会“有效”。赛博朋克盲目崇拜的故事有效地推翻了目前基于国家的卡特尔货币体系（ cartel money sytem ）（这被认为是真实的，具体的，无懈可击的——在全球大多数人的脑海中），然后它提供了一堆*技术上不必要的东西*，但理论上令人信服的理由，即为什么它要颠覆这种现行的全球货币发行方式的原因。
+EOS 像比特币一样有效。但是 EOS 更便宜。然而，如果它是中本聪的项目，EOS 作为一种社会现象可能不会“有效”。赛博朋克盲目崇拜的故事有效地推翻了目前基于国家的卡特尔货币体系（ cartel money sytem ）（这被认为是真实的，具体的，无懈可击的——在全球大多数人的脑海中），然后它提供了一堆*技术上不必要的东西，但理论上令人信服的*理由，即为什么它要颠覆这种现行的全球货币发行方式的原因。
 
 
 If EOS came first, maybe the EOS site operators?—?the block producers?—?could have been legally persecuted. No one would have really known who they were or what they were trying to achieve. But now? Now “crypto”?—?Internet-based, computer-based anarchic money creation and operation?—?is a thing, and the persecution and destruction of any such network is now impractical, in case it was not always impractical, which is also a possibility.
@@ -65,7 +65,7 @@ The overzealous and tilted craft, and thus the ballooning costs of the “golden
 
 And thus, as we see that the religion of Debt Money and its devil are all invented, we realize it has no power over us. The power that myths have over a society depend on accepting that myth as at least partially real. We have all seen way too many spy movies. Thus, if we want a new digital money, we can merely set up a decent amount of social replication world-wide, across a significant number of State jurisdictions (and let’s not forget to add back-up replicas, just in case!), and let each replica be a business, thus optimizing to the actual architecture of the computer network known as “Internet,” which is optimized for the client-server, producer-consumer distinction, and also to the actual architecture of human society, where businesses concentrate a few specialists that maintain services for users who don’t really have to know much about how it works.
 
-因此，正如我们所看到的，货币债务及其魔鬼般的宗教都被创造了出来，我们意识到它对我们毫无？？动力。神话故事对社会的影响取决于这种神话故事有多少部分是真实的。我们看过很多谍战影片。因此，如果我们想要一个新的数字货币，我们可以在全球范围内建立一个相当数量的协作关系，可跨越多个州的司法管辖区（我们不要忘记保存副本，以防万一！），并让每个 replicas 成为一项业务，从而优化被称为“互联网”的计算机网络的实际架构，该架构针对客户端服务器，生产者与消费者的差异以及人类社会的实际架构进行优化，那里的企业集中了一些专家，为那些真正不需要知道如何工作的用户提供服务。
+因此，正如我们所看到的，货币债务及其魔鬼般的宗教都被创造了出来，我们意识到它没有凌驾于我们之上的能力。神话故事对社会的影响取决于这种神话故事有多少部分是真实的。我们看过很多谍战影片。因此，如果我们想要一个新的数字货币，我们可以在全球范围内建立一个相当数量的协作关系，可跨越多个州的司法管辖区（我们不要忘记保存副本，以防万一！），并让每个 replicas 成为一项业务，从而优化被称为“互联网”的计算机网络的实际架构，该架构针对客户端服务器，生产者与消费者的差异以及人类社会的实际架构进行优化，那里的企业集中了一些专家，为那些真正不需要知道如何工作的用户提供服务。
 
 
 
