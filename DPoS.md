@@ -22,8 +22,6 @@ DPoS is aware of these risks and attempts to mitigate them through transparency.
 DPoS 意识到这些风险，并试图通过透明度来减轻风险。在 DPoS 中，Token 持有者直接负责决定谁控制验证。虽然这样一来，Token 持有者需要承担更多责任，但这也意味着，如果验证人作恶，网络所有者就可以求助。但如果以太坊矿池相互勾结串通，那么参与矿池的个体矿工将不得不跟随矿主，否则社区将不得不艰难地进行分叉。
 这两种情况都需要某种形式的离线协调。如果 DPoS 区块生产者作恶，社区可以在单轮投票中将它们投票出去，并将其替换为诚实可靠的区块生产者。这仍然需要一种预先共识协议的形式（ Token 持有者决定如何重新分配他们的选票），但它更形式化，并且可以说更加微不足道。这种架构允许 DPoS 在保持安全性的同时采用一种中心化的形式。这个（以及潜在的攻击载体）含义将在本文稍后部分讨论。
 
-（插入图片）
-
 - Scalability 
 
 - 可扩展性
@@ -102,21 +100,33 @@ providing a good service. Reasons for firing could include any of the following:
 
 
 ● Dishonesty 
-● The appearance of dishonesty, or even a mere lack of sufficient transparency compared
-to other candidates
+
+● The appearance of dishonesty, or even a mere lack of sufficient transparency compared to other candidates
+
 ● Greed (e.g. trying to demand higher block rewards than other producers) 
+
 ● Censorship
+
 ● Malicious collusion 
+
 ● Support of controversial or malicious changes to the network 
+
 ● Failure to support community-backed changes 
-● Regulatory fear based on jurisdiction (for example, Chinese block producers could be
-voted out if China announced a crackdown on crypto)
+
+● Regulatory fear based on jurisdiction (for example, Chinese block producers could be voted out if China announced a crackdown on crypto)
 
 ●不诚实行为
+
 ●与其他候选人相比，出现不诚实行为，甚至仅仅缺乏足够的透明度
+
 ●贪婪（例如试图要求比其他生产者更高的区块奖励）
+
 ●审查制度
+
 ●恶意串通
+
 ●支持对网络进行有争议或恶意的更改
+
 ●未能支持社区支持的变更
+
 ●基于司法管辖权的监管恐惧（例如，如果中国宣布加强对加密的打击，中国的BP可能会被拒之门外）
