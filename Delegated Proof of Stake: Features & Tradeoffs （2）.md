@@ -130,3 +130,116 @@ providing a good service. Reasons for firing could include any of the following:
 ●未能支持社区支持的变更
 
 ●基于司法管辖权的监管恐惧（例如，如果中国宣布加强对加密的打击，中国的BP可能会被拒之门外）
+
+● On-Chain Governance
+链上治理
+
+
+DPoS is inherently a form of on-chain governance; it uses stake-weighted voting to allow the owners
+of the network (token holders) to make decisions about the network. DPoS is a form of liquid
+representative democracy where voting power can be allocated to other participants and votes can be
+changed at any time. While voting for block producers is the primary governance use case, token
+holder voting can also be used to decide on things like development funding, monetary policy,
+network parameters, hard forks and more.?
+
+DPoS 本质上是一种链上治理形式；它采用权益权重投票形式允许网络的所有者（Token持有者）对网络做出决定。DPoS是一种流动的代议制民主形式（译者注：DPoS：超级节点是变化的，因为持币者可以投票选择或淘汰他们，另外他们代表普通持币者的利益），即可以将投票权分配给其他参与者，并且可以随时更改投票权。虽然对区块生产者投票是主要的治理应用，但Token持有人得投票也可用于对发展基金，货币政策，网络参数，硬分叉等等做出决定。
+
+Blockchain governance is still very much a nascent field, and there exists a lot of disagreement over
+which approach to blockchain governance is the most promising. Some, like Ethereum researcher
+Vlad Zamfir?, ?have argued? that on-chain governance is a bad idea because, among other reasons, it
+negates the role of non-block-producing full nodes in the governance process. Analyst ?Nic Carter
+similarly concluded? that Bitcoin’s informal off-chain governance, which consists of several different
+social and technological layers, is the ideal form of governance for a decentralized network. Fred
+Ehrsam, co-founder of Coinbase, ?argued for? on-chain governance as a way to bring formal structure
+to these messy interactions. Many point to the ?Bitcoin scaling debate?, the ?Ethereum DAO fork?, and the
+recent ?Parity wallet bug? debate as three examples of situations where on-chain governance could
+have more easily rectified very messy and uncertain situations.?
+
+区块链治理仍然是一个新兴领域，关于区块链治理最有前途的方案上存在很多争议。有些人，例如以太坊研究员 [Vlad Zamfir](https://twitter.com/VladZamfir) ，[认为](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca)链上治理是一个糟糕的主意，因为除了其它原因之外，它否定了在治理过程中无区块生成（ non-block-producing ）全节点的作用。
+
+分析师 [Nic Carter](https://twitter.com/nic__carter)得出类似的[结论](https://coinmetrics.io/papers/dissertation.pdf)：比特币非正式的链下治理由几个不同的社会（确定一下最终意思）和技术层组成，是去中心化网络的理想治理形式。
+Coinbase的联合创始人Fred Ehrsam[认为](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)，链上治理是将正式结构带入这些混乱交互的一种方式。
+
+许多人指出[比特币扩之争](https://hackernoon.com/the-great-bitcoin-scaling-debate-a-timeline-6108081dbada)，[以太坊 DAO 分叉](https://www.cryptocompare.com/coins/guides/the-dao-the-hack-the-soft-fork-and-the-hard-fork/)以及最近的 [Parity 钱包 bug](https://paritytech.io/a-postmortem-on-the-parity-multi-sig-library-self-destruct/) 争论的三个例子，进一步说明了链上治理可以更容易地纠正非常混乱和不确定的情况。
+
+
+
+
+
+DPoS chains embrace the fact that all blockchain networks are inherently political and seek to
+formalize the political process. While there are certainly issues with on-chain governance and token voting (which we’ll explore later), both are key features of DPoS. DPoS is a community-owned
+operational hierarchy that operates in a fully transparent, decentralized way. While it is not clear that
+on-chain governance is better than other forms of blockchain governance, it certainly isn’t clear that it
+is worse. We believe strongly that this approach should be tried and tested.?
+
+
+DPoS链表明，所有区块链网络本质上都是政治性的，并寻求形式化政治过程。尽管链上治理和Token投票肯定存在问题（我们将在后面讨论），但两者都是DPoS的关键特征。DPoS是一个拥有操作性层级的社区，以完全透明的，去中心化的方式运作。虽然链上治理不如其它形式的区块链治理更好，但不一定是最糟糕的方式。因此我们强烈建议应该尝试和测试这种方法。
+
+● Self-Funding Through Inflation?
+通过通货膨胀筹集资金
+
+
+Almost every major blockchain pays for infrastructure with inflation. In the case of Bitcoin and
+Ethereum, miners receive block rewards as compensation for validating the blockchain. When block
+rewards run out in the future, infrastructure will have to be supported through fees alone. This raises
+questions about how high fees will get in the future, how that will affect incentives to mine, and
+whether that will affect the security of the chain.?
+
+几乎每一个主要的区块链都是通过通货膨胀来应对基础设施建设。对比特币和以太坊来说，矿工获得区块奖励作为打包区块链的报酬。那么如果区块奖励在未来某个时间点用完了怎么办，基础设施则必须通过收费来获得支撑。这使得收多高费用成了一个问题，因为这会影响到激励的效果和链的安全性。
+
+
+EOS and Steem, because they have no transaction fees, use an entirely different model. Not only do
+they use inflation to pay block producers to provide infrastructure, but they also use inflation to fund
+the development of the platform itself. Token holders can vote on a maximum annual inflation rate,
+initially set at 5%. This number can be changed, as it has been several times ?in Steem?. Token holders
+also vote on how much of the annual inflation is paid directly to block producers. If the token price
+increases, users can decide whether to keep block producer pay steady (by lowering block rewards)
+or to allow block producers to capture additional profits that can be used to scale up their
+infrastructure. That which is not paid to block producers can be paid to a set of community smart
+contracts that can be used in a wide variety of ways. A contract could be a development fund that
+pays out developers based on community votes; it could go directly to a company that is actively
+working on development; it could be used to fund hackathons; it could be burned; and more. DPoS
+actually makes it possible for developers, marketers, and others building community tools to be
+funded ?by the blockchain itself
+
+EOS和Steem，它们没有交易费用，且使用完全不同的模型。即它们不仅通过通货膨胀来支付区块生产者提供基础设施的费用，而且还通过通货膨胀来资助平台本身的开发。
+
+Token持有者可以对年度通货膨胀率进行投票，最初定为5％。这个数字时可以改变的，因为它在[Steem](https://github.com/steemit/steem/issues/551)中已经尝试过了。Token持有者还会投票决定每年的通货膨胀有多少是直接用来支付给BP。如果Token价格上涨，用户可以决定是否要给予区块生产者固定的支付（通过降低区块奖励）或允许区块生产者获取可用于扩大其基础设施的额外利润。那些没有支付给区块生产者的费用（Token）可以支付给一些以各种方式使用的社区智能合约。某个合同可以是一个开发基金，它根据社区投票给开发者支付费用；也可以直接投给一个积极致力于发展的公司；也可以用来资助黑客马拉松：它也可以被销毁等等。DPoS实际上可以让开发人员，营销人员和其他构建社区工具的人*通过区块链本身*获得资金支持。
+
+
+Many people struggle with the concept of inflation and are adverse to relying on inflation funding. This
+shouldn’t be the case. Inflation is perhaps the only method by which blockchains can be funded in a
+fair way because it solves the tragedy of the commons problem. Some blockchains, like Monero, rely
+entirely on community crowdfunding of development initiatives. While the generosity of the Monero
+community is remarkable, it remains unclear whether that is a sustainable way to fund development.
+Everyone benefits from the development advances made, but only a minority of users are willing to
+contribute their own money to funding. With inflation funding, all users collectively fund development
+and security ratably, and they all collectively reap the benefits. As Fred Ehrsam points out, inflation
+funding can actually be a net positive for token holders: 
+
+许多人纠结于通货膨胀的概念上，但这一切对依赖通货膨胀的资金是不利的。不应该是这样的。通货膨胀或许是区块链能够以公平的方式获得资金的唯一方法，因为它解决了公地悲剧。
+
+像 Monero 这样的一些区块链，完全依靠社区众筹的发展举措。虽然 Monero 的社区很大方，但这是否是一种可持续的发展方式尚不清楚。每个人都能从项目的发展中获益，但只有少数用户愿意出钱。但如果通过通货膨胀获取资金，那么相当于所有的用户*共同*为项目的发展和安全提供资金。正如 Fred Ehrsam 所[指出的那样](https://medium.com/@FEhrsam/funding-the-evolution-of-blockchains-87d160988481)，通货膨胀提供的资金实际上可以为 Token 持有者带来净收益（ a net positive ）：
+
+> “If Ether holders believed an upgrade (ex: sharding) would make the price go up by >10%, they’d be happy to pay close to 10% of their tokens for it. That means Ethereum could crowd fund a $3bn feature boun ty by inflating the number of ETH by 10% and pay the newly created tokens to the creator(s) of the upgrade.This is somewhat analogous to taxes: everyone in the community chips in to fund common infrastructure (ex: roads) which no one would build alone.”
+
+> 如果以太坊持有者认为升级（例如：分片）会使价格上涨 > 10％，他们会很乐意为其支付接近 10％ 的 Token 。这意味着以太坊可以通过通货膨胀增发  10％ ETH 来筹集30亿美元，  并将增发的 Token 支付给系统升级的创建者们。这有点类似于税收：社区中的每个人都在为共同的基础设施（例如：道路）提供资金，而这不是哪一个可以单独完成的。
+
+
+
+Every blockchain must pay to secure its network through either transaction fees, inflation, or both.
+Transaction fees force active users to pay, while passive users (hodlers) don’t. A user could secure her
+entire life savings in Bitcoin or Monero without almost ever contributing to the security of the platform
+through transaction fees. This creates a free-rider problem. Transaction fees are also variable and
+unpredictable, and may need to be astronomically high in order to pay for network security. Inflation is
+a more  equitable and user-friendly way of securing the network.?
+
+每个区块链都必须通过交易费用，通胀或二者并存的方式来保证其网络安全。交易费由活跃用户支付，而 Token 持有者（ hodlers ）不支付。用户可以通过比特币或 Monero 储存其一生的积蓄，而不需要为平台的安全性承担任何费用。这产生了一个搭便车问题。交易费用是变动的也是不可预测的，因此为了网络安全，交易费用可能是一个天文数字。基于以上分析看来，通货膨胀是一种更加公平和人性化的保护网络的方式。
+
+Similar approaches have been tried by other projects in a number of ways. Zcash collects a
+“?Founders’ Reward?,” that sends 10% of the total money supply to the Zcash Company and its
+shareholders. Dash collects a portion of block rewards for a masternode-vote development fund.
+DPoS formalizes these arrangements, bakes them directly into the protocol, and allows for maximum
+flexibility and accountability.?
+
+已经有不少项目以多种方式尝试了类似的方法。Zcash 采用了[“创始人奖励”](https://blog.z.cash/funding/)（即利益相关者），它将总 Token 供应量的 10％ 奖励给 Zcash 公司及其投资者。 Dash 回收了区块奖励的一部分用于主节点的[开发基金](https://dashvotetracker.com/)。而 DPoS 将这些动作全部正式化，即将其直接放到协议中，并给予了最大限度的灵活性和问责性（ flexibility and accountability ）。
