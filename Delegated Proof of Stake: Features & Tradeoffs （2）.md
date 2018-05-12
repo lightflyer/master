@@ -132,6 +132,7 @@ providing a good service. Reasons for firing could include any of the following:
 ●基于司法管辖权的监管恐惧（例如，如果中国宣布加强对加密的打击，中国的BP可能会被拒之门外）
 
 ● On-Chain Governance
+
 链上治理
 
 
@@ -142,7 +143,7 @@ changed at any time. While voting for block producers is the primary governance 
 holder voting can also be used to decide on things like development funding, monetary policy,
 network parameters, hard forks and more.?
 
-DPoS 本质上是一种链上治理形式；它采用权益权重投票形式允许网络的所有者（Token持有者）对网络做出决定。DPoS是一种流动的代议制民主形式（译者注：DPoS：超级节点是变化的，因为持币者可以投票选择或淘汰他们，另外他们代表普通持币者的利益），即可以将投票权分配给其他参与者，并且可以随时更改投票权。虽然对区块生产者投票是主要的治理应用，但Token持有人得投票也可用于对发展基金，货币政策，网络参数，硬分叉等等做出决定。
+DPoS 本质上是一种链上治理形式；它采用权益权重投票形式允许网络的所有者（Token持有者）对网络做出决定。DPoS是一种流动的代议制民主形式（译者注：DPoS：超级节点是变化的，因为持币者可以投票选择或淘汰他们，另外他们代表普通持币者的利益），即可以将投票权分配给其他参与者，并且可以随时更改投票权。虽然对区块生产者投票是主要的治理应用，但Token持有人的投票也可用于对发展基金，货币政策，网络参数，硬分叉等情况做出决定。
 
 Blockchain governance is still very much a nascent field, and there exists a lot of disagreement over
 which approach to blockchain governance is the most promising. Some, like Ethereum researcher
@@ -155,7 +156,7 @@ to these messy interactions. Many point to the ?Bitcoin scaling debate?, the ?Et
 recent ?Parity wallet bug? debate as three examples of situations where on-chain governance could
 have more easily rectified very messy and uncertain situations.?
 
-区块链治理仍然是一个新兴领域，关于区块链治理最有前途的方案上存在很多争议。有些人，例如以太坊研究员 [Vlad Zamfir](https://twitter.com/VladZamfir) ，[认为](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca)链上治理是一个糟糕的主意，因为除了其它原因之外，它否定了在治理过程中无区块生成（ non-block-producing ）全节点的作用。
+区块链治理仍然是一个新兴领域，关于区块链治理目前最有效的方案上仍存在很多争议。有些人，例如以太坊研究员 [Vlad Zamfir](https://twitter.com/VladZamfir) ，[认为](https://medium.com/@Vlad_Zamfir/against-on-chain-governance-a4ceacd040ca)链上治理是一个糟糕的主意，因为除了其它原因之外，它否定了在治理过程中无区块生成（ non-block-producing ）全节点的作用。
 
 分析师 [Nic Carter](https://twitter.com/nic__carter)得出类似的[结论](https://coinmetrics.io/papers/dissertation.pdf)：比特币非正式的链下治理由几个不同的社会（确定一下最终意思）和技术层组成，是去中心化网络的理想治理形式。
 Coinbase的联合创始人Fred Ehrsam[认为](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74)，链上治理是将正式结构带入这些混乱交互的一种方式。
@@ -176,6 +177,7 @@ is worse. We believe strongly that this approach should be tried and tested.?
 DPoS链表明，所有区块链网络本质上都是政治性的，并寻求形式化政治过程。尽管链上治理和Token投票肯定存在问题（我们将在后面讨论），但两者都是DPoS的关键特征。DPoS是一个拥有操作性层级的社区，以完全透明的，去中心化的方式运作。虽然链上治理不如其它形式的区块链治理更好，但不一定是最糟糕的方式。因此我们强烈建议应该尝试和测试这种方法。
 
 ● Self-Funding Through Inflation?
+
 通过通货膨胀筹集资金
 
 
